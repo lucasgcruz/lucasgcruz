@@ -1,5 +1,5 @@
 # Olá, me chamo Lucas!
 
-- 📚 Estudando: C & JavaScript
+- 📚 Estudando: C & Dart
 - 🏫 Cursando: ADS - 2º Sem - FATEC Rubens Lara
 - ☎️ Contato: lucascruztrabalho@gmail.com
